@@ -17,4 +17,7 @@ pip install keras
 ```
 
 ### Check point
+#### 1.gpu
 ![Checking GPU](images/gpu.PNG)
+##### 2. Jupyter 
+![Check Jupyter ](images/gpu_ipy.PNG)
