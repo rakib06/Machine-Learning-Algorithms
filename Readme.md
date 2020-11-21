@@ -1,9 +1,9 @@
 # Getting Started 
 #### Creating VirtualEnv (windows)
 
-```html
-Open cmd
-```
+
+###### open command panel
+
 
 ```commandline
 mkdir "C:\venvs"
@@ -13,4 +13,8 @@ cd:\venvs
 virtualenv ml_venv -p C:\Users\User\AppData\Local\Programs\Python\Python36\python.exe
 pip install jupyter notebook
 pip install tensorflow-gpu==2.0
+pip install keras
 ```
+
+### Check point
+![Checking GPU](images/gpu.PNG)
